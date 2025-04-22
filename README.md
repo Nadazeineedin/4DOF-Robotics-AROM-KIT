@@ -101,7 +101,10 @@ void loop() {
 
 ## 📢 Connect
 
-If you found this project helpful, don’t forget to like, comment, and subscribe on YouTube!
+If you found this project helpful, don’t forget to like, comment, and subscribe on [YouTube](https://youtube.com/shorts/wb3r6qS_1Ko?feature=share)!
 
-📸 Follow me on Instagram for more robotics content: @nada_robotics
+📸 Follow me on Instagram for more robotics content: [@nada_robotics](https://instagram.com/nada_robotics)  
 Have questions? Feel free to DM or comment—I'm always excited to see your builds!
+
+---
+
